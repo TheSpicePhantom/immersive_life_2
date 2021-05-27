@@ -1,0 +1,21 @@
+
+#General settings
+[general]
+	#Enable the mod
+	show = true
+	#Whether to add one day to the shown date.
+	#Default Minecraft starts at day 0
+	addOneDay = false
+	#The first line of the shown information,
+	#@PLAYER@ will be replaced with the player name,
+	#@DATE@ will be replaced with the in game date,
+	#\u will be replaced with §.
+	#You can add more than one random titles
+	title = ["Wakey, Wakey, rise and shine!"]
+	#The second line of the shown information,
+	#@PLAYER@ will be replaced with the player name,
+	#@DATE@ will be replaced with the in game date,
+	#\u will be replaced with §.
+	#You can add more than one random subtitles
+	subtitle = ["@PLAYER@"]
+

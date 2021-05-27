@@ -1,0 +1,13 @@
+#05B minecraft:bamboo_jungle
+#7AE minecraft:bamboo_jungle_hills
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#705 minecraft:deep_frozen_ocean
+#010 minecraft:forest
+#292 minecraft:frozen_ocean
+#4B0 minecraft:jungle
+#7F2 minecraft:jungle_edge
+#043 minecraft:jungle_hills
+#3DC minecraft:plains
+#5FF minecraft:river
+#452 minecraft:wooded_hills

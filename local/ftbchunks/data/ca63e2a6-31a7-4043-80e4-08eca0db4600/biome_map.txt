@@ -1,0 +1,2 @@
+#79A minecraft:lukewarm_ocean
+#3DC minecraft:plains

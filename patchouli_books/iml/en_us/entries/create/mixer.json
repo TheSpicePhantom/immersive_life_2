@@ -1,0 +1,27 @@
+{
+    "name": "Taking a big whisk here",
+    "icon": "create:whisk",
+    "category": "create",
+    "pages": [
+        {
+            "type": "text",
+            "text": "This device is used to craft a plethora of things in Create. From cooking things using blazing heat to brewing potions in batches, this is the machine of choice for the aspiring engineer."
+        },
+        {
+          "type": "spotlight",
+          "item": "create:mechanical_mixer",
+          "text": "Be sure to use a hair tie and throw your tie back before operating!"
+        },
+        {
+          "type": "crafting",
+          "recipe": "create:crafting/kinetics/mechanical_mixer",
+          "text": "This Mixer is also capable of crafting any shapeless recipe, just feed it the items needed. Why don't you hover over the Mixer and hold 'W'?"
+        },
+        {
+          "type": "crafting",
+          "recipe": "minecraft:fire_charge",
+          "text": "As an example, you could toss in 16 Gunpowder, 16 Coal and 16 Blaze Powder and it would make 48 Fire Charges."
+        }
+    ],
+    "sortnum": 2
+}

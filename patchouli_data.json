@@ -1,0 +1,28 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:Immersive Life 2": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    },
+    "patchouli:iml": {
+      "viewedEntries": [
+        "patchouli:entry",
+        "patchouli:create/create",
+        "patchouli:create/intro",
+        "patchouli:create/mixer"
+      ],
+      "bookmarks": [],
+      "history": [
+        "patchouli:create/mixer",
+        "patchouli:create/intro",
+        "patchouli:create/create",
+        "patchouli:entry"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

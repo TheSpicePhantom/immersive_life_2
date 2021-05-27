@@ -1,0 +1,8 @@
+{
+  "name": "A new Life",
+  "landing_text": "You woke up to strange noise.$(br)You look around.$(br)You begin to realise...",
+  "version": 1,
+  "model": "patchouli:book_gray",
+  "creative_tab": "tools",
+  "show_progress": false
+}

@@ -1,0 +1,6 @@
+{
+	"name": "Refined Storage",
+	"description": "Storage, made simple!$(br)Refined Storage adds a way to store large amounts of items in a small space. Up to $(l)$(#f00)103M$() individual items in $(o)$(#f00)a single block$()!",
+	"icon": "refinedstorage:creative_controller",
+	"sortnum": 3
+}

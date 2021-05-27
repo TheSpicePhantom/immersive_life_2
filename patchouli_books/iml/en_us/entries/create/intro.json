@@ -1,0 +1,17 @@
+{
+    "name": "Introduction",
+    "icon": "create:super_glue",
+    "category": "create",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Create is all about $(l)your$() inner engineer. This is going to be a quick introduction to the basics of Create."
+        },
+        {
+          "type": "spotlight",
+          "item": "create:brass_hand",
+          "text": "This will hold your hand through the next three chapters."
+        }
+    ],
+    "sortnum": 1
+}
