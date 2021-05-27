@@ -1,52 +1,31 @@
-# Prerequisites
-*.d
+# Folder structure
+.mixin.out/
+backups/
+# config/
+crash-reports/
+defaultconfigs/
+downloads/
+journeymap/
+# kubejs/
+# local/
+logs/
+mod_data/
+mods/
+# openloader/
+# patchouli_books/
+resourcepacks/
+saves/
+schematics/
+screenshots/
+shaderpacks/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# File structure
+options.txt
+optionsof.txt
+optionsshaders.txt
+# patchouli_data.json
+realms_persistence.json
+reauth.toml
+servers.dat
+usercache.json
+usernamecache.json
