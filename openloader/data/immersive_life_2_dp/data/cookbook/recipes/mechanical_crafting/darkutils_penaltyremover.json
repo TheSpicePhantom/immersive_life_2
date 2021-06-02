@@ -1,0 +1,72 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " 0ab ",
+    "8cxd9",
+    "6e#f7",
+    "4xgx5",
+    " 123 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:dandelion"
+    },
+    "2": {
+      "item": "minecraft:poppy"
+    },
+    "3": {
+      "item": "minecraft:blue_orchid"
+    },
+    "4": {
+      "item": "minecraft:allium"
+    },
+    "5": {
+      "item": "minecraft:azure_bluet"
+    },
+    "6": {
+      "item": "minecraft:red_tulip"
+    },
+    "7": {
+      "item": "minecraft:orange_tulip"
+    },
+    "8": {
+      "item": "minecraft:white_tulip"
+    },
+    "9": {
+      "item": "minecraft:pink_tulip"
+    },
+    "0": {
+      "item": "minecraft:oxeye_daisy"
+    },
+    "a": {
+      "item": "minecraft:cornflower"
+    },
+    "b": {
+      "item": "minecraft:lily_of_the_valley"
+    },
+    "c": {
+      "item": "minecraft:wither_rose"
+    },
+    "d": {
+      "item": "minecraft:sunflower"
+    },
+    "e": {
+      "item": "minecraft:lilac"
+    },
+    "f": {
+      "item": "minecraft:rose_bush"
+    },
+    "g": {
+      "item": "minecraft:peony"
+    },
+    "#": {
+      "item": "minecraft:book"
+    },
+    "x": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "darkutils:book_restore"
+  }
+}

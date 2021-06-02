@@ -1,0 +1,36 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " AAA ",
+    "ADPDA",
+    "ATCTA",
+    "AIOIA",
+    " AAA "
+  ],
+  "key": {
+    "A": {
+      "item": "refinedstorage:machine_casing"
+    },
+    "I": {
+      "item": "create:integrated_circuit"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "C": {
+      "item": "computercraft:computer_advanced"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "P": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "T": {
+      "item": "refinedstorage:basic_processor"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:controller"
+  }
+}

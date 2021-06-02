@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "createaddition:diamond_grit",
+      "count": 9
+    }
+  ],
+  "processingTime": 600
+}

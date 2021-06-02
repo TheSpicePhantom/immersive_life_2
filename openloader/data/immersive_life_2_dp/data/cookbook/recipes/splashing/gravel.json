@@ -1,0 +1,45 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "forge:gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:flint",
+      "chance": 0.7
+    },
+    {
+      "item": "create:crushed_iron_ore",
+      "chance": 0.2,
+      "count": 3
+    },
+    {
+      "item": "kubejs:mineral_chunk",
+      "chance": 0.12
+    },
+    {
+      "item": "kubejs:mineral_nugget",
+      "chance": 0.08
+    },
+    {
+      "item": "create:crushed_copper_ore",
+      "chance": 0.2,
+      "count": 2
+    },
+    {
+      "item": "create:crushed_zinc_ore",
+      "chance": 0.2
+    }
+  ],
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:gravel",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}

@@ -17,5 +17,6 @@
 #706 minecraft:savanna_plateau
 #0FF minecraft:shattered_savanna_plateau
 #774 minecraft:sunflower_plains
+#169 minecraft:taiga
 #452 minecraft:wooded_hills
 #306 minecraft:wooded_mountains

@@ -1,0 +1,7 @@
+#556 minecraft:beach
+#4F9 minecraft:dark_forest
+#010 minecraft:forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#4D3 minecraft:swamp
+#452 minecraft:wooded_hills

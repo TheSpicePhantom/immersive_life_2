@@ -1,0 +1,39 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:mineral_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:flint",
+      "chance": 0.4
+    },
+    {
+      "item": "kubejs:diamond_nugget",
+      "chance": 0.08
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.3,
+      "count": 2
+    },
+    {
+      "item": "create:crushed_iron_ore",
+      "count": 2
+    },
+    {
+      "item": "kubejs:emerald_nugget",
+      "chance": 0.02
+    },
+    {
+      "item": "create:crushed_copper_ore",
+      "count": 2,
+      "chance": 0.2
+    }
+  ]
+}
